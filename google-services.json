@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054909217240",
+    "project_id": "loginkotlin-b956a",
+    "storage_bucket": "loginkotlin-b956a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054909217240:android:6ebf7802e49a9240345aad",
+        "android_client_info": {
+          "package_name": "com.disooft.loginkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054909217240-hgph2raeoqe83up156gclp36jmfcebp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjxPcCAuvHfmihnhIuVePvyeBfWZVYDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054909217240-hgph2raeoqe83up156gclp36jmfcebp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
